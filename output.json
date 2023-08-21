@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "product_id": 0,
+      "price": 0
+    },
+    {
+      "product_id": 1,
+      "price": 10
+    },
+    {
+      "product_id": 2,
+      "price": 20
+    },
+    {
+      "product_id": 3,
+      "price": 30
+    },
+    {
+      "product_id": 4,
+      "price": 40
+    },
+    {
+      "product_id": 5,
+      "price": 50
+    },
+    {
+      "product_id": 6,
+      "price": 60
+    },
+    {
+      "product_id": 7,
+      "price": 70
+    },
+    {
+      "product_id": 8,
+      "price": 80
+    },
+    {
+      "product_id": 9,
+      "price": 90
+    }
+  ]
+}
